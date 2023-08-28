@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## [Mitigating Bias: Enhancing Image Classification by Improving Model Explanations](https://arxiv.org/abs/2307.01473)
+Raha Ahmadi, Mohammad Javad Rajabi, Mohammad Khalooie, Mohammad Sabokrou.
+Under review, Asian Conference on Machine Learning (ACML), June 2023.
