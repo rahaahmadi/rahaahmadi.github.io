@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Raha Ahmadi"
   avatar           : "profile.JPG"
-  bio              : "B.Sc Student in Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic) <br><br> <a href='https://aut.ac.ir/en'><img src='/images/aut.png' style='width: 20%; height: 20%;' /></a>"
+  bio              : "B.Sc Student in Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic)"
   location         : "Tehran, Iran"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
