@@ -20,5 +20,5 @@ Under review, Winter Conference on Applications of Computer Vision (WACV), Augus
 Under review, Asian Conference on Machine Learning (ACML), June 2023
 
 
-## Transformer-based single image super resolution
+## HiSpecmer: A Deep Efficient Image Super Resolution Network using Transformers with Hierarchical and Spectral Feature Attention
 Alireza Esmaeilzehi, Hossein Zaredar, **Raha Ahmadi**, M Omair Ahmad - Under review, Winter Conference on Applications of Computer Vision (WACV), August 2023
