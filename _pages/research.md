@@ -13,7 +13,7 @@ author_profile: true
 
 ## Research Assistant at [IPM Institute for Research in Fundamental Sciences](http://www.ipm.ac.ir/)
 
-- Proposed a novel approach that encourages the model to focus on the primary object of the image and mitigates biases in image classification. This approach leads to an improvement in classifi- cation accuracy, reduced sensitivity to background noise, and enhanced model interpretability.
+- Proposed a novel approach that encourages the model to focus on the primary object of the image and mitigates biases in image classification. This approach leads to an improvement in classification accuracy, reduced sensitivity to background noise, and enhanced model interpretability. [paper](https://arxiv.org/pdf/2307.01473.pdf)
 - Under the Supervision of [Mohammad Sabokrou](https://scholar.google.com/citations?user=jqHXvT0AAAAJ&hl=en)
 
 *June 2022 – June 2023*
