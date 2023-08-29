@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I’m Raha, a senior B.Sc. computer engineering student at 
-I am a senior B.Sc student specializing in Artificial Intelligence at [Amirkabir University of Technology](https://aut.ac.ir/en), advised by [Saeedeh Momtazi](https://scholar.google.nl/citations?user=N-WqXykAAAAJ&hl=en). I am highly interested in machine learning and deep learning and their applications in computer vision and natural language processing.
+Welcome to my homepage! I’m Raha, a senior B.Sc. computer engineering student specializing in Artificial Intelligence at [Amirkabir University of Technology](https://aut.ac.ir/en), advised by [Saeedeh Momtazi](https://scholar.google.nl/citations?user=N-WqXykAAAAJ&hl=en). I am highly interested in machine learning and deep learning and their applications in computer vision and natural language processing.
