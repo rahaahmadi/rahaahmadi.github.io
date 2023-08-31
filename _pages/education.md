@@ -7,7 +7,7 @@ author_profile: true
 ## [**Amirkabir University of Technology (Tehran Polytechnic)**](https://ce.aut.ac.ir/), Tehran, Iran
 
 B.Sc. in **Computer Engineering** (Major in **Artificial Intelligence**)
-*September 2019 – March 2024 (Expected)*
+*September 2019 – PRESENT*
 
 - Total GPA: 3.84/4 (18.16/20)
 - GPA over the past two years: 4/4
