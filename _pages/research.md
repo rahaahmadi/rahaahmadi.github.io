@@ -4,12 +4,12 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-## Research Assistant at [University of Toronto](https://www.utoronto.ca/)
+<!-- ## Research Assistant at [University of Toronto](https://www.utoronto.ca/)
 
 - Collaborated in implementing an image super-resolution network using transformers with hierarchical and spectral feature attention to restore high-quality images from low-quality images.
 - Under the Supervision of [Dr. Alireza Esmaeilzehi](https://scholar.google.ca/citations?user=WAISKYYAAAAJ&hl=en)
 
-*April 2023 – Now*
+*April 2023 – Now* -->
 
 ## Research Assistant at [IPM Institute for Research in Fundamental Sciences](http://www.ipm.ac.ir/)
 
