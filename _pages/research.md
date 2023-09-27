@@ -5,9 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 <!-- ## Research Assistant at [University of Toronto](https://www.utoronto.ca/) -->
-## Contributor to Collaborative Research Projects
-- Collaborated in implementing an image super-resolution network using transformers with hierarchical and spectral feature attention to restore high-quality images from low-quality images.
+## Research Assistant
 - Under the Supervision of [Dr. Alireza Esmaeilzehi](https://scholar.google.ca/citations?user=WAISKYYAAAAJ&hl=en)
+- Collaborated in implementing an image super-resolution network using transformers with hierarchical and spectral feature attention to restore high-quality images from low-quality images.
+- Research on any-scale image super-resolution utilizing digital signal processing techniques
 
 *April 2023 – Now*
 
