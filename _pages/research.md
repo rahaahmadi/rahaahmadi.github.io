@@ -10,7 +10,7 @@ author_profile: true
 - Collaborated in implementing an image super-resolution network using transformers with hierarchical and spectral feature attention to restore high-quality images from low-quality images.
 - Research on any-scale image super-resolution utilizing digital signal processing techniques
 
-*May 2023 – October*
+*May 2023 – October 2023*
 
 ## Research Assistant at [IPM Institute for Research in Fundamental Sciences](http://www.ipm.ac.ir/)
 - Under the Supervision of [Mohammad Sabokrou](https://scholar.google.com/citations?user=jqHXvT0AAAAJ&hl=en)
