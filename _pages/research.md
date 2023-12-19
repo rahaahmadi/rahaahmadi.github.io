@@ -10,13 +10,13 @@ author_profile: true
 - Collaborated in implementing an image super-resolution network using transformers with hierarchical and spectral feature attention to restore high-quality images from low-quality images.
 - Research on any-scale image super-resolution utilizing digital signal processing techniques
 
-*April 2023 – Now*
+*May 2023 – October*
 
 ## Research Assistant at [IPM Institute for Research in Fundamental Sciences](http://www.ipm.ac.ir/)
 - Under the Supervision of [Mohammad Sabokrou](https://scholar.google.com/citations?user=jqHXvT0AAAAJ&hl=en)
 - Proposed a novel approach that encourages the model to focus on the primary object of the image and mitigates biases in image classification. This approach leads to an improvement in classification accuracy, reduced sensitivity to background noise, and enhanced model interpretability. [paper](https://arxiv.org/pdf/2307.01473.pdf)
 
-*June 2022 – June 2023*
+*June 2022 – September 2023*
 
 ## Research Assistant at [Amirkabir University of Technology](https://aut.ac.ir/), NLP Lab
 - Under the Supervision of  [Saeedeh Momtazi](https://scholar.google.nl/citations?user=N-WqXykAAAAJ&hl=en)
