@@ -71,14 +71,6 @@ const Hero: React.FC = () => {
                 src="pics/profile.jpg" 
                 alt={PERSONAL_INFO.name}
                 className="relative w-full h-full object-cover rounded-full border-4 border-white shadow-2xl"
-                onError={(e) => {
-                  const target = e.target as HTMLImageElement;
-                  target.onerror = null; // Prevent loop
-                  // Only fallback if the current source isn't already the fallback
-                  if (target.src.indexOf('github.com') === -1) {
-                    target.src = 'https://github.com/rahaahmadi.png';
-                  }
-                }}
               />
             </div>
           </div>
